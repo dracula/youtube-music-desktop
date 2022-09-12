@@ -1,9 +1,10 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [YTMD](https://ytmdesktop.app/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [YTMD](https://ytmdesktop.app/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./ytmddracula.png)
 
+Theme heavily based on the css files from [OceanicSquirrel](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player)
 ## Install
 
 All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
@@ -12,9 +13,9 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![MayhemBill](https://github.com/MayhemBill.png?size=100)](https://github.com/MayhemBill) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [MayhemBill](https://github.com/MayhemBill)                                               |
 
 ## Community
 
