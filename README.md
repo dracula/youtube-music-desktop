@@ -1,10 +1,11 @@
-# Dracula for [YTMD](https://ytmdesktop.app/)
+# Dracula for [YouTube Music Desktop](https://ytmdesktop.app/)
 
-> A dark theme for [YTMD](https://ytmdesktop.app/).
+> A dark theme for [YouTube Music Desktop](https://ytmdesktop.app/).
 
-![Screenshot](./ytmddracula.png)
+![Screenshot](./screenshot.png)
 
 Theme heavily based on the css files from [OceanicSquirrel](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player)
+
 ## Install
 
 All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
@@ -14,8 +15,8 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
 | [![MayhemBill](https://github.com/MayhemBill.png?size=100)](https://github.com/MayhemBill) |
-| ---------------------------------------------------------------------------------------- |
-| [MayhemBill](https://github.com/MayhemBill)                                               |
+| ------------------------------------------------------------------------------------------ |
+| [MayhemBill](https://github.com/MayhemBill)                                                |
 
 ## Community
 
