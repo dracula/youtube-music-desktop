@@ -4,15 +4,15 @@
 
 ![Screenshot](./screenshot.png)
 
-Theme heavily based on the css files from [OceanicSquirrel](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player)
+Theme originally based on the css files from [OceanicSquirrel](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player), with a refactored build using semantic CSS variables, smooth transitions, keyboard focus styles, and deduplicated rules.
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/youtube-music-desktop](https://draculatheme.com/youtube-music-desktop).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/youtube-music-desktop/graphs/contributors).
 
 | [![MayhemBill](https://github.com/MayhemBill.png?size=100)](https://github.com/MayhemBill) |
 | ------------------------------------------------------------------------------------------ |
